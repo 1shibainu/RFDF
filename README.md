@@ -2,4 +2,4 @@ a fork of [roblox filtering disabled](https://jetray.itch.io/roblox-filtering-di
 
 
 [installer](
-https://www.dropbox.com/scl/fi/wmztvtwwlmsb8rupvmgzf/RFDFinstaller.exe?rlkey=fgr3yzvj6c9vkixqlfufdvtkc&st=wypdfn43&dl=0)
+https://www.dropbox.com/scl/fi/eluzkwhuyj3slm1ik0mhn/Installer.exe?rlkey=ln8tnnc1ehsiishc2thyuj5j3&st=u01uuhqf&dl=1)
